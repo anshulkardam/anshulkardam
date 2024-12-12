@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
-  <a href="https://www.shauryacodes.me/" >
+  <a href="https://www.github.com/anshulkardam" >
 <!--      <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwind,react,express,nodejs,django,mysql,next,vite" /> -->
 <!--    <img src="https://skillicons.dev/icons?i=java,cpp,py,bash,git,github,gcp,figma,mongodb,redux,bootstrap,ts,postman,selenium" />  -->
     <!-- docker,graphql,kubernetes,redis,selenium --> 
