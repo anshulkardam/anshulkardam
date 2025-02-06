@@ -39,5 +39,4 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 <hr/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=anshulkardam&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
