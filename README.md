@@ -29,9 +29,6 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://www.github.com/anshulkardam" >
-<!--      <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwind,react,express,nodejs,django,mysql,next,vite" /> -->
-<!--    <img src="https://skillicons.dev/icons?i=java,cpp,py,bash,git,github,gcp,figma,mongodb,redux,bootstrap,ts,postman,selenium" />  -->
-    <!-- docker,graphql,kubernetes,redis,selenium --> 
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,django,docker,bootstrap,ts,mongodb,postgres,prisma" />
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,gcp,mysql,java,cpp,py,bash,vite,npm,pnpm,figma,postman,selenium,firebase,bun" />
@@ -39,5 +36,26 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 <hr/>
-
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anshulkardam&theme=codeSTACKr&hide_border=false)<br/>
+</div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/285v0zd92u67dm9gtg4z0gfrk">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=karzemo&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/anshulkardam/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshulkardam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulkardam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
