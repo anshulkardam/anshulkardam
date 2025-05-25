@@ -7,8 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **[Project Name or Product Brief]**
-- 🌱 I’m learning **AI integrations / DevOps / [Other Topics]**
+- 🌱 I’m learning **AI integrations / DevOps / GenAI**
 - 👯 I’m looking to collaborate on **open-source projects and SaaS tools**
 - 💬 Ask me about **JavaScript, React, Node.js, DevOps, and product-building**
 - ⚡ Fun fact: **I can deploy faster than my coffee brews ☕🚀**
@@ -43,7 +42,7 @@
 ---
 
 ### 🧠 Currently building:
-- ⚙️ A SaaS tool for [problem you're solving]
+- ⚙️ A SaaS tool for making **everyday chores easier**
 - 📱 A mobile app with **React Native + Expo**
 - 🌍 Exploring AI-powered web experiences
 
