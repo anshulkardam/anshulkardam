@@ -17,7 +17,7 @@
 ### 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,tailwind,figma,git,docker,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,tailwind,figma,git,docker,mongodb,postgres,postman,pnpm" />
 </p>
 
 ---
