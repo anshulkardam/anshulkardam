@@ -22,25 +22,12 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulkardam&theme=tokyonight" height="180" />
+   <img src="https://github-profile-trophy.vercel.app/?username=anshulkardam&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-
----
-
-
-## 🏆 GitHub Trophies
-
-
-
-<p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=anshulkardam&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-
-</p>
-
 
 ---
 
