@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Kardam</h1>
-<h3 align="center">A passionate full-stack developer from New Delhi, India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Node.js+%2F+Next.js+Lover;Always+learning+new+techs&center=true&width=440&height=45" alt="Typing SVG" />
