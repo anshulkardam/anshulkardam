@@ -10,12 +10,10 @@ I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and
 
 ---
 
-### 📈 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulkardam&theme=tokyonight" height="180" />
-   <img src="https://github-profile-trophy.vercel.app/?username=anshulkardam&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anshulkardam&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -26,13 +24,6 @@ I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-### 🧠 Currently building:
-- ⚙️ A SaaS tool for making **everyday chores easier**
-- 📱 A mobile app with **React Native + Expo**
-- 🌍 Exploring AI-powered web experiences
 
 ---
 
