@@ -1,18 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anshul Kardam</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1>Hey There👋, I'm Anshul </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Node.js+%2F+Next.js+Lover;Always+learning+new+techs&center=true&width=440&height=45" alt="Typing SVG" />
-</p>
-
----
-
-- 🌱 I’m learning **AI integrations / DevOps / GenAI**
-- 👯 I’m looking to collaborate on **open-source projects and SaaS tools**
-- 💬 Ask me about **JavaScript, React, Node.js, DevOps, and product-building**
-- ⚡ Fun fact: **I can deploy faster than my coffee brews ☕🚀**
-
----
+I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and intelligent AI-powered apps. From Generative AI workflows with CrewAI & n8n, to mobile apps with React Native, and voice agents with LiveKit, I turn ideas into real-world, intelligent experiences.
 
 ### 🛠️ Languages and Tools
 
