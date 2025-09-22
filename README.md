@@ -10,10 +10,11 @@ I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and
 
 ---
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anshulkardam&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=anshulkardam&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
