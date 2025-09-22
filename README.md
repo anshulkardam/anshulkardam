@@ -27,6 +27,7 @@ I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-profile-trophy.vercel.app/?username=anshulkardam&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
+---
 
 > “Sab chahiye, sab chahiye, chahiye sab Haan mujhe chahiye sab.” – Rawal
 
