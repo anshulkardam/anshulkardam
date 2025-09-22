@@ -1,6 +1,6 @@
 <h1>Hey There👋, I'm Anshul </h1>
 
-<h3>I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and intelligent AI-powered apps. From Generative AI workflows with CrewAI & n8n, to mobile apps with React Native, and voice agents with LiveKit, I turn ideas into real-world, intelligent experiences.</h3>
+I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and intelligent AI-powered apps. From Generative AI workflows with CrewAI & n8n, to mobile apps with React Native, and voice agents with LiveKit, I turn ideas into real-world, intelligent experiences.
 
 ---
 
