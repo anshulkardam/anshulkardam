@@ -1,8 +1,12 @@
 <h1>Hey There👋, I'm Anshul </h1>
 
+![](https://komarev.com/ghpvc/?username=anshulkardam&label=Profile%20Visits&color=blue&style=for-the-badge)
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
 I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and intelligent AI-powered apps. From Generative AI workflows with CrewAI & n8n, to mobile apps with React Native, and voice agents with LiveKit, I turn ideas into real-world, intelligent experiences.
 
----
+
 
 ### 🌐 Socials
 
