@@ -12,6 +12,7 @@ I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
 ---
@@ -26,8 +27,14 @@ I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and
 
 ### 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=anshulkardam&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="start" style="display: flex; justify-content: space-between; align-items: center; gap: 40px;"> 
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU1dzR3ZmFpMXY2bHYxZXEwcHRpY3hub2l2cGtoZHBwYm9tbjJxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qXJTU5oEhQZO/giphy.gif" /> 
+</div>
+
 ![](https://github-profile-trophy.vercel.app/?username=anshulkardam&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+
 
 ---
 
