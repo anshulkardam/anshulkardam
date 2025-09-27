@@ -9,7 +9,7 @@ I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and
 <p>
   <a href="https://www.linkedin.com/in/anshulkardam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:anshulkardamsr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/285v0zd92u67dm9gtg4z0gfrk?si=l6IsLIV-Q5yv6GYQ3T_YbQ"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://anshulkardam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
   <a href="https://x.com/anshulkardam_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
