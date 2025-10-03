@@ -1,7 +1,7 @@
 ### Hey! I'm Anshul
 
 <!-- Left GIF -->
-<img src="https://raw.githubusercontent.com/anshulkardam/anshulkardam/refs/heads/main/assets/games.gif" width="400" align="right" />
+<img src="https://raw.githubusercontent.com/anshulkardam/anshulkardam/refs/heads/main/assets/games.gif" width="300" align="right" />
 
 
 👾 Full-Stack Developer crafting robust backends and responsive frontends.
