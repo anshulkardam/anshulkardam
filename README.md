@@ -4,16 +4,13 @@
 <img src="https://raw.githubusercontent.com/anshulkardam/anshulkardam/refs/heads/main/assets/games.gif" width="300" align="right" />
 
 
-👾 Full-Stack Developer crafting robust backends and responsive frontends.
+📦 Full Stack Dev crafting robust backends and responsive frontends.
 
-🦀 Hands-on experience with Generative AI, AI agents, and intelligent automation workflows.
+🦾 Hands-on experience with GenAI, AI agents, and intelligent automation workflows.
 
-🐁 Proficient in building scalable mobile applications with React Native.
+🍥 Proficient in building scalable mobile applications with React Native.
 
-🐁 Focused on delivering high-performance, AI-driven digital experiences.
-
-
-
+🚀 Focused on delivering high-performance, AI-driven digital experiences.
 
 
 <img src="https://komarev.com/ghpvc/?username=anshulkardam&label=Profile%20Visits&color=blue&style=for-the-badge" alt="Profile Visits"/>
@@ -26,12 +23,12 @@
   <a href="https://x.com/anshulkardam_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
 
-<h3 align="left">What I work with</h3>
+### ⚓ What I work with
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,tailwind,git,docker,mongodb,postgres,postman,pnpm" align="left" alt="tech icons"/>
  
 <br><br>
 
-<h3 align="left">⚡ Stats</h3>
+### ⚡ Stats
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=anshulkardam&theme=gotham&hide_border=true" align="left" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
