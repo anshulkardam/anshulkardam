@@ -1,15 +1,18 @@
-<h3 align="left">Hey! I'm Anshul</h3>
-
-<p align="left">
-  I’m a <b>Full-Stack AI Developer</b> building scalable backends, sleek frontends, 
-  and intelligent AI-powered apps. From Generative AI workflows with CrewAI & n8n, 
-  to mobile apps with React Native, and voice agents with LiveKit, I turn ideas 
-  into real-world, intelligent experiences.
-</p>
-
+### Hey! I'm Anshul
 
 <!-- Left GIF -->
 <img src="https://raw.githubusercontent.com/anshulkardam/anshulkardam/refs/heads/main/assets/games.gif" width="400" align="right" />
+
+
+👾 Full-Stack Developer crafting robust backends and responsive frontends.
+
+🦀 Hands-on experience with Generative AI, AI agents, and intelligent automation workflows.
+
+🐁 Proficient in building scalable mobile applications with React Native.
+
+🐁 Focused on delivering high-performance, AI-driven digital experiences.
+
+
 
 
 
@@ -24,10 +27,9 @@
 </p>
 
 <h3 align="left">What I work with</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,ubuntu,python,fastapi,tailwind" align="left" alt="tech icons"/>
-<img src="https://skillicons.dev/icons?i=figma,git,docker,mongodb,postgres,postman,pnpm" align="left" alt="tech icons"/>
-
-<br><br><br><br><br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,tailwind,git,docker,mongodb,postgres,postman,pnpm" align="left" alt="tech icons"/>
+ 
+<br><br>
 
 <h3 align="left">⚡ Stats</h3>
 
