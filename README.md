@@ -28,7 +28,7 @@
  
 <br><br>
 
-### ⚡ Stats
+### ⚡ Github Stats
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=anshulkardam&theme=gotham&hide_border=true" align="left" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
