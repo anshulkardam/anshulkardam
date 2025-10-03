@@ -1,14 +1,19 @@
-<h1>Hey There👋, I'm Anshul </h1>
+<h3 align="left">Hey! I'm Anshul</h3>
 
-![](https://komarev.com/ghpvc/?username=anshulkardam&label=Profile%20Visits&color=blue&style=for-the-badge)
+<p align="left">
+  I’m a <b>Full-Stack AI Developer</b> building scalable backends, sleek frontends, 
+  and intelligent AI-powered apps. From Generative AI workflows with CrewAI & n8n, 
+  to mobile apps with React Native, and voice agents with LiveKit, I turn ideas 
+  into real-world, intelligent experiences.
+</p>
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
-I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and intelligent AI-powered apps. From Generative AI workflows with CrewAI & n8n, to mobile apps with React Native, and voice agents with LiveKit, I turn ideas into real-world, intelligent experiences.
+<!-- Left GIF -->
+<img src="https://raw.githubusercontent.com/anshulkardam/anshulkardam/refs/heads/main/assets/games.gif" width="400" align="right" />
 
 
 
-### 🌐 Socials
+<img src="https://komarev.com/ghpvc/?username=anshulkardam&label=Profile%20Visits&color=blue&style=for-the-badge" alt="Profile Visits"/>
 
 <p>
   <a href="https://www.linkedin.com/in/anshulkardam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,23 +23,18 @@ I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and
   <a href="https://x.com/anshulkardam_"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 </p>
 
----
+<h3 align="left">What I work with</h3>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,ubuntu,python,fastapi,tailwind" align="left" alt="tech icons"/>
+<img src="https://skillicons.dev/icons?i=figma,git,docker,mongodb,postgres,postman,pnpm" align="left" alt="tech icons"/>
 
-### 🛠️ Tech Stack
+<br><br><br><br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,ubuntu,python,fastapi,tailwind,figma,git,docker,mongodb,postgres,postman,pnpm" />
-</p>
+<h3 align="left">⚡ Stats</h3>
 
----
+<img src="https://nirzak-streak-stats.vercel.app/?user=anshulkardam&theme=gotham&hide_border=true" align="left" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 
-### 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=anshulkardam&theme=gotham&hide_border=true)<br/>
-
-<div align="start" style="display: flex; justify-content: space-between; align-items: center; gap: 40px;"> 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkardam&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU1dzR3ZmFpMXY2bHYxZXEwcHRpY3hub2l2cGtoZHBwYm9tbjJxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qXJTU5oEhQZO/giphy.gif" /> 
-</div>
+<br>
 
 ![](https://github-profile-trophy.vercel.app/?username=anshulkardam&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
@@ -44,4 +44,3 @@ I’m a Full-Stack AI Developer building scalable backends, sleek frontends, and
 > “Sab chahiye, sab chahiye, chahiye sab Haan mujhe chahiye sab.” – Rawal
 
 ---
-
