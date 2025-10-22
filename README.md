@@ -40,6 +40,6 @@
 
 ---
 
-> “Sab chahiye, sab chahiye, chahiye sab Haan mujhe chahiye sab.” – Rawal
+> “Sab chahiye, sab chahiye, chahiye sab... Haan mujhe chahiye sab.” – Rawal
 
 ---
